@@ -15,7 +15,7 @@ Eganhouse, R.P., C.R. Sherwood, J. Pontolillo, B.D. Edwards, and P.J. Dickhudt (
 
 
 ## Batemen
-The name of the notebooks refers to Harry Bateman, FRS, who provided analtical solutions for radioctive decay. The analytical solutions were not used here because they are undefined when two of the rate constants are identical.
+The name of the notebooks refers to Harry Bateman, FRS, who provided analytical solutions for radioctive decay. The analytical solutions were not used here because they are undefined when two of the rate constants are identical, which can happen in the course of the minimization procedure.
 
 https://en.wikipedia.org/wiki/Bateman_Equation
 
