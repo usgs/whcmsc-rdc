@@ -7,7 +7,7 @@ csherwood@usgs.gov
 
 *See disclaimer and license in this repository.*
 
-The calculations in this Python Jupyter notebook investigate solutions to a multi-step reaction model describing the successive dechlorination of DDE to DDMU and finally DDNU, as discussed in Eganhouse and Pontolillo (2008) and Eganhouse et al. (in review). The calculations produce Figures 7 and S-9 in the draft manuscript.
+The calculations in these Python Jupyter notebooks investigate solutions to a multi-step reaction model describing the successive dechlorination of DDE to DDMU and finally DDNU, as discussed in Eganhouse and Pontolillo (2008) and Eganhouse et al. (in review). The calculations produce Figures 7 and S-9 in the draft manuscript.
 
 Eganhouse, R.P., J. Pontolillo (2008) Assessment of 1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene (DDE) transformation rates on the Palos Verdes Shelf, CA,  *U.S.G.S. Open-File Report 2007-1362*, U.S. Geological Survey, Reston, VA, pp. 124.
 
