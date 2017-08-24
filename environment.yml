@@ -11,5 +11,4 @@ dependencies:
   - mpld3
   - nb_conda_kernels
   - numpy
-  - pandas
   - scipy  
