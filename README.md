@@ -17,7 +17,7 @@ Eganhouse, R.P., C.R. Sherwood, J. Pontolillo, B.D. Edwards, and P.J. Dickhudt (
 
 The code uses several packages, including scipy, matplotlib, and numpy, which are standard in most Python distributions. It also requires lmfit (https://lmfit.github.io/lmfit-py/) which "provides a high-level interface to non-linear optimization and curve fitting problems".
 
-Written in Python 3.6 in a Jupyter notebook. Run in a conda environment (https://conda.io/docs/intro.html) created with the `environment.yml` file included in the repository using the command `conda env create -f environment.yml`. Specific documentation of the Python environment used is contained in the file `specific_environment.txt`, generated with the command `conda list --explicit > specific_environment.txt`.
+Written in Python 3.6 in a Jupyter notebook. Run in a conda environment (https://conda.io/docs/intro.html) named `RDC3` created with the `environment.yml` file included in the repository using the command `conda env create -f environment.yml`, then activated with the command `activate RDC3`. Specific documentation of the Python environment used is contained in the file `specific_environment.txt`, generated with the command `conda list --explicit > specific_environment.txt`.
 
 
 ## Batemen
