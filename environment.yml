@@ -5,10 +5,8 @@ channels:
 dependencies:
   - python=3.6
   - jupyter
-  - jupyter_contrib_nbextensions
   - lmfit
   - matplotlib
-  - mpld3
   - nb_conda_kernels
   - numpy
   - scipy  
